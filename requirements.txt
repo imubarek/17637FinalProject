@@ -1,0 +1,13 @@
+Django==4.1.1
+daphne==4.0.0
+channels==4.0.0
+attrs==22.2.0
+redis-lock==0.2.0
+redis==4.5.4
+channels-redis==4.1.0
+django-redis==5.2.0
+djangorestframework==3.14.0
+python-redis-lock==4.0.0
+social-auth-app-django
+
+
